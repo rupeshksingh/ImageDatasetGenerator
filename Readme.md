@@ -17,8 +17,8 @@ An advanced web scraping pipeline that builds custom image datasets with AI-powe
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/image-dataset-builder.git
-cd image-dataset-builder
+git clone https://github.com/rupeshksingh/ImageDatasetGenerator.git
+cd ImageDatasetGenerator
 ```
 
 2. Create and activate a virtual environment:
@@ -172,4 +172,4 @@ MIT License - see LICENSE file for details
 
 ## 🐛 Bug Reports & Feature Requests
 
-Please use the [GitHub issue tracker](https://github.com/yourusername/image-dataset-builder/issues) to report bugs or submit feature requests.
+Please use the [GitHub issue tracker](https://github.com/rupeshksingh/ImageDatasetGenerator/issues) to report bugs or submit feature requests.
