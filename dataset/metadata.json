@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "prompt": "Show me different types of renewable energy installations",
+    "timestamp": "2024-12-28 04:05:39.310506",
+    "total_images": 8,
+    "domains": [
+      "Renewable Energy"
+    ]
+  },
+  "images": [
+    {
+      "image_url": "https://assets.solar.com/wp-content/uploads/2023/01/solar-panel-installation-.jpg",
+      "web_url": "https://www.solar.com/learn/solar-panel-installation/",
+      "context": "Please enter a valid zip code. Please enter a valid zip code. Please enter a valid zip code. Solar Learning Center Please enter a valid zip code.  Solar Learning Center > Solar Panels for Home > Solar Panel Installation Process Solar Panel Installation Process Transitioning to power from solar panels is an exciting step for homeowners. There are several steps in the process which ensure the homeowner gets a safe and reliable installation. The process outlined below begins from the point of having an installer chosen. We suggest looking around and gathering more than one quote to be sure you are getting a fair offer. Our solar marketplace allows you to do this easily by presenting three competitive quotes and providing guidance from a dedicated Energy Advisor. Once you have chosen your installer the excitement really begins! The Site Evaluation During the site evaluation the installer comes to your home to verify the planned system design. (For our process, if the scope of work has chan",
+      "caption": "A technician carefully installs solar panels on a rooftop, advancing sustainable energy solutions for homeowners.",
+      "domain": "Renewable Energy",
+      "local_path": "dataset\\images\\121c4c6c8f2db017fb2262ee2b44ca95.jpg"
+    },
+    {
+      "image_url": "https://archive.epa.gov/climatechange/kids/images/4-1-5-geopower.gif",
+      "web_url": "https://archive.epa.gov/climatechange/kids/solutions/technologies/geothermal.html",
+      "context": "Jump to main content. A student's guide to Global Climate Change Geothermal Energy If you were to dig a big hole straight down into the Earth, you would notice the temperature getting warmer the deeper you go. That's because the inside of the Earth is full of heat. This heat is called geothermal energy. People can capture geothermal energy through: Geothermal Power Plants At a geothermal power plant, wells are drilled 1 or 2 miles deep into the Earth to pump steam or hot water to the surface. You're most likely to find one of these power plants in an area that has a lot of hot springs, geysers, or volcanic activity, because these are places where the Earth is particularly hot just below the surface. How It Works Geothermal Heat Pumps Not all geothermal energy comes from power plants. Geothermal heat pumps can do all sorts of things\u2014from heating and cooling homes to warming swimming pools. These systems transfer heat by pumping water or a refrigerant (a special type of fluid) through pi",
+      "caption": "\"Diagram of a geothermal power plant: Hot water (1) is extracted from beneath the Earth's surface, converted to steam (2), which drives a turbine (3) to generate electricity. After cooling (4), water is reinjected into the Earth (5) to sustain the cycle.\"",
+      "domain": "Renewable Energy",
+      "local_path": "dataset\\images\\f5436671def7a5707522197669c962c5.jpg"
+    },
+    {
+      "image_url": "https://images.theecoexperts.co.uk/wp-content/uploads/2022/02/Biomass-power-plant-in-the-UK.jpg",
+      "web_url": "https://www.theecoexperts.co.uk/news/biomass-power-plant",
+      "context": "A guide to biomass power plants Biomass power plants are fueled using biomass energy that comes from plants and animals, and can be burned directly for heat or converted to liquid or fuel. There are currently more than 4,800 around the world, and approximately 266 in the UK. Biomass fuel and power plants are one of the most discussed alternatives in our rush to find an alternative to coal and gas. Many people across the world have started using it as an alternative to traditional fuels for heating their homes. In this guide, we\u2019ll dive into what exactly biomass fuel is, why power plants are using it and whether it\u2019s as environmentally-friendly as it claims to be. What is a biomass power plant? Unlike power plants that run on traditional fuels, such as coal or gas, a biomass power plant runs entirely on, well, biomass. Biomass is a renewable organic resource that we can use as fuel, including in boilers for homes. When these power plants burn fuel, they create steam that turns turbines ",
+      "caption": "A biomass power plant featuring large storage domes and cooling towers, showcasing infrastructure for renewable energy production.",
+      "domain": "Renewable Energy",
+      "local_path": "dataset\\images\\6db09baaa4edce334fbae9b09ce894c8.jpg"
+    },
+    {
+      "image_url": "https://cleanpower.org/wp-content/uploads/2021/01/offshore-wind-turbines-sunrise-1.jpg",
+      "web_url": "https://cleanpower.org/facts/offshore-wind/",
+      "context": "Policy and Issues Fact sheets Discover Clean Energy Fact sheets Fact sheets Resources and Tools Reports Events Conference About ACP Standards & Practices Membership information Policy and Issues Fact sheets Discover Clean Energy Fact sheets Fact sheets Resources and Tools Reports Events Conference About ACP Standards & Practices Membership information American Clean Power Offshore wind power facts Offshore wind is America\u2019s next major energy source, representing a generational opportunity to create jobs and bolster the economy. It is an abundant clean energy solution for large population centers looking to source more of their power from clean sources, and falling costs make it increasingly economical. Download Offshore Wind Market Report Inexhaustible, cost-effective, clean power for coastal populations. Offshore wind is an abundant clean energy solution for many coastal electricity load centers, which have a greater proportion of population and energy demand. Roughly 80% of Americans",
+      "caption": "\"Offshore wind turbines harness clean, renewable energy at sunset, showcasing the potential for sustainable power for coastal communities.\"",
+      "domain": "Renewable Energy",
+      "local_path": "dataset\\images\\d26ab6ddf94105023d616c4cf672996e.jpg"
+    },
+    {
+      "image_url": "https://www.intermtnwindandsolar.com/wp-content/uploads/2019/04/How-solar-energy-is-created.jpg",
+      "web_url": "https://www.intermtnwindandsolar.com/how-a-rooftop-solar-array-creates-electricity-for-your-home/",
+      "context": "How a Rooftop Solar Array Creates Electricity for Your Home  Install a rooftop solar array, and you\u2019ll have a steady supply of free electricity. Your PV panels will power all of your home appliances and electronic devices, slashing \u2013 or even eliminating \u2013 your monthly energy costs. But how does all of this actually happen? Solar Panels Capture Energy from the Sun Sunlight contains energy. When light from the sun hits something here on earth, this energy usually turns into heat \u2013 think of the warmth of your skin when you\u2019re outside on a bright sunny day and you\u2019ll get the picture. When the sun\u2019s rays hit a rooftop solar array, however, the energy creates an electrical current instead of heat. Certain materials \u2013 including crystalline silicone, the main component of most PV panels \u2013 produce electricity when struck by sunlight. This phenomenon, known as the photovoltaic effect, is the reason you can rely on a solar array for a reliable source of power. Inverters Transform the Energy into ",
+      "caption": "\"Rooftop solar panels harness sunlight to generate clean, renewable electricity for home use.\"",
+      "domain": "Renewable Energy",
+      "local_path": "dataset\\images\\ee5b2be5b6b2f6c08110bb82c331678b.jpg"
+    },
+    {
+      "image_url": "https://images.ctfassets.net/gztkr1jaynk0/1XA1IMKj2X2jGSuCzuJwhf/88019ccf1b7208597a8105e8894f740b/what-is-community-solar.jpg",
+      "web_url": "https://cleanchoiceenergy.com/news/what-is-community-solar",
+      "context": "What Is Community Solar?  [2024 Guide] Apr 1, 2024   The benefits of solar power are clear\u2014cleaner energy and a more sustainable electrical grid. Solar energy will play a key role in our fight against climate change. But not everyone who wants solar energy can install rooftop panels.  Now there's an easier way for everyone to participate: Community solar.  What Is Community Solar? Community solar (also called shared solar or roofless solar) is a growing way that homeowners and renters alike can receive the financial benefits of solar energy\u2014without the hassle of upfront costs or installing your own solar panels. With community solar, renewable energy is more accessible than ever\u2014allowing more communities to enjoy clean power.  How Does Community Solar Work?  With community solar, the energy generated by one large local solar farm (also called a solar project, solar garden, or solar field) is shared by multiple members\u2014homeowners, renters, and businesses in the local community who \u201csubs",
+      "caption": "\"Aerial view of a solar farm, showcasing community solar energy initiatives for clean and sustainable power access.\"",
+      "domain": "Renewable Energy",
+      "local_path": "dataset\\images\\5f236abe81d6ae784fbe2c6e207e302d.jpg"
+    },
+    {
+      "image_url": "https://images.nationalgeographic.org/image/upload/v1638889166/EducationHub/photos/tidal-energy.jpg",
+      "web_url": "https://education.nationalgeographic.org/resource/tidal-energy/",
+      "context": "ENCYCLOPEDIC ENTRY ENCYCLOPEDIC ENTRY tidal energy tidal energy Tidal energy is power produced by the surge of ocean waters during the rise and fall of tides. Tidal energy is a renewable source of energy. 9 - 12+ Earth Science, Geography, Physical Geography, Social Studies, Economics Tidal energy is produced by the surge of ocean waters during the rise and fall of tides. Tidal energy is a renewable source of energy.During the 20th century, engineers developed ways to use tidal movement to generate electricity in areas where there is a significant tidal range\u2014the difference in area between high tide and low tide. All methods use special generators to convert tidal energy into electricity.Tidal energy production is still in its infancy. The amount of power produced so far has been small. There are very few\u00a0commercial-sized tidal power plants operating in the world. The first was located in La Rance, France. The largest facility is the Sihwa Lake Tidal Power Station in South Korea.\u00a0The Un",
+      "caption": "\"Illustration of tidal energy systems, showcasing various technologies including sea snakes, underwater turbines, kites, and paddles, used to harness renewable energy from ocean tides and waves.\"",
+      "domain": "Renewable Energy",
+      "local_path": "dataset\\images\\35640b42eb6e9a3babd1a1f85543d18b.jpg"
+    },
+    {
+      "image_url": "https://www.coastalwiki.org/w/images/thumb/d/d2/REWEC.jpg/500px-REWEC.jpg",
+      "web_url": "https://www.coastalwiki.org/wiki/Wave_energy_converters",
+      "context": "Wave energy converters    Contents Introduction Vast and reliable, wave power has long been considered as one of the most promising renewable energy sources. In a special IPCC 2011 report[1] several estimates are presented for the world total potential of ocean wave energy resources. These estimates were obtained using methods as illustrated in Appendix A. The theoretical maximum has been estimated at about 30,000 TWh/yr (3.1013 kWh/yr), which is about 20% of the 2019 world energy consumption. However, due to technological and economic constraints, the exploitable resource is almost a factor 10 less.  Ocean waves offer a greater consistency and are more predictable than solar or wind energy. Although the variability in wave power levels is large, waves containing harvestable energy are able to generate power up to 90 percent of the time, far outperforming wind or solar power devices[3]. The global distribution of mean wave power over the oceans is shown in Fig.1. Regions with the highe",
+      "caption": "\"Diagram illustrating the operation of an Oscillating Water Column (OWC) wave energy converter, where wave motion drives air flow to spin a generator, producing electricity.\"",
+      "domain": "Renewable Energy",
+      "local_path": "dataset\\images\\1f720847a8bc07c53c0a1e62d860839b.jpg"
+    }
+  ]
+}
